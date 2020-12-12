@@ -1,4 +1,10 @@
-### Hi there 👋
+### Moin 👋
+
+My name is Mark Michaelis. I am a software developer since 2000 with main focus on Java. Prior to that I started coding with LPC, the language of [LDMud](http://www.ldmud.eu/) and I controlled some robots with C and C++ at the University of Ulm, Germany. Not to forget some virtual robots in Matlab 🤖
+
+While my main focus at university were neural nets, my main passion today is quality assurance, playing with my favorite tools like JUnit 5 (Jupiter) and AssertJ.
+
+Since 2005 I love working at [CoreMedia](https://www.coremedia.com/).
 
 <!--
 **mmichaelis/mmichaelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
